@@ -1,0 +1,14 @@
+D:\用户目录\我的文档\Visual Studio 2013\Projects\LolServer\Protocol\bin\Debug\Protocol.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\LolServer\Protocol\bin\Debug\Protocol.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\LolServer\Protocol\obj\Debug\Protocol.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\LolServer\Protocol\obj\Debug\Protocol.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\LolServer\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2013\Projects\YgocoreServer\Protocol\bin\Debug\Protocol.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\YgocoreServer\Protocol\bin\Debug\Protocol.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\YgocoreServer\Protocol\obj\Debug\Protocol.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\YgocoreServer\Protocol\obj\Debug\Protocol.pdb
+D:\UnityProject\UnityYgocore\Assets\Protocol.dll
+D:\UnityProject\UnityYgocore\Assets\Protocol.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\YgocoreServer\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\GitHub\Unity\UnityYgocore\Assets\Protocol.dll
+D:\用户目录\我的文档\GitHub\Unity\UnityYgocore\Assets\Protocol.pdb

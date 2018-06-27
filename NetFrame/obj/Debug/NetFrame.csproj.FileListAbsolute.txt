@@ -1,0 +1,10 @@
+D:\用户目录\我的文档\Visual Studio 2013\Projects\LolServer\NetFrame\obj\Debug\NetFrame.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2013\Projects\LolServer\NetFrame\bin\Debug\NetFrame.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\LolServer\NetFrame\bin\Debug\NetFrame.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\LolServer\NetFrame\obj\Debug\NetFrame.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\LolServer\NetFrame\obj\Debug\NetFrame.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\YgocoreServer\NetFrame\bin\Debug\NetFrame.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\YgocoreServer\NetFrame\bin\Debug\NetFrame.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\YgocoreServer\NetFrame\obj\Debug\NetFrame.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2013\Projects\YgocoreServer\NetFrame\obj\Debug\NetFrame.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\YgocoreServer\NetFrame\obj\Debug\NetFrame.pdb
